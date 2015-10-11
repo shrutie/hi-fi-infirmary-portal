@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>5.5</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>HI- FI INFIRMARY SYSTEM</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>domino</ImageEffect>
+            <ImageFillColor>#339f9f</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>E:/WOW Slider/templates/backgnd/geometric/</ImageTemplate>
+            <ImageTemplateName>Geometric</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/WOW Slider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>E:/WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>50</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>geometric</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/1006348_10151800812528826_834796523_n.jpg</url>
+                <title>1006348_10151800812528826_834796523_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/1524780_211652799026584_1928171827_n.jpg</url>
+                <title>1524780_211652799026584_1928171827_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/294965_219749824807830_1455412496_n.jpg</url>
+                <title>294965_219749824807830_1455412496_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/486492_277580972354611_165105897_n.jpg</url>
+                <title>486492_277580972354611_165105897_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/603107_10202408694526519_1159644301_n.jpg</url>
+                <title>603107_10202408694526519_1159644301_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/734093_331005873702586_794555384_n.jpg</url>
+                <title>734093_331005873702586_794555384_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/988255_155702624621602_547904482_n.jpg</url>
+                <title>988255_155702624621602_547904482_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/995179_10151798830268826_2123569480_n.jpg</url>
+                <title>995179_10151798830268826_2123569480_n</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/BANK1.jpg</url>
+                <title>BANK1</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/Black-Paint-Facebook-Covers1.jpg</url>
+                <title>Black-Paint-Facebook-Covers1</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/Converse-Facebook-Profile-Timeline-Cover.jpg</url>
+                <title>Converse-Facebook-Profile-Timeline-Cover</title>
+            </Image>
+            <Image>
+                <url>C:/Users/shruti/Pictures/bakwas/disney-Frozen-Elsa-HD-Wallpaper-1.jpg</url>
+                <title>disney-Frozen-Elsa-HD-Wallpaper-1</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
